@@ -17,7 +17,7 @@ try {
         return new \Phalcon\Db\Adapter\Pdo\Mysql(array(
             "host" => "localhost",
             "username" => "root",
-            "password" => "123qwe",
+            "password" => "",
             "dbname" => "lilicoco"
         ));
     });
